@@ -2,7 +2,7 @@
   "baseUrl": "tattoo.enjooymart.com",
   "protocol": "https",
   "hostingWPCOM": false,
-  "useACF": false,
+  "useACF": true,
   "includedRoutes": [
     "**/categories",
     "**/posts",
