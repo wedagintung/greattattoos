@@ -1,9 +1,9 @@
 module.exports = {
-  siteUrl: "https://wp-novela-preview.draftbox.co", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://greattattoos.netlify.app", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 10, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "Built with Draftbox", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "Choose The Best Tattoos", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
     "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding", // This allows an alternative site description for meta data for pages.
 
@@ -14,10 +14,10 @@ module.exports = {
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
-  apiUrl: "https://wordpress.theasdfghjkl.com",
+  apiUrl: "https://tattoo.enjooymart.com",
   subscribeWidget: {
     visible: true,
-    title: "Subscribe to Draftbox",
+    title: "Subscribe to Great Tattoos",
     helpText: "Get the latest posts delivered right to your inbox.",
     successMessage: "Thanks for subscribing to Draftbox.",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://wp-novela-preview.draftbox.co/",
+        url: "https://greattattoos.netlify.app/",
       },
       {
         label: "Contact",
-        url: "https://wp-novela-preview.draftbox.co/contact",
+        url: "https://greattattoos.netlify.app/contact",
       },
     ],
   },
@@ -38,32 +38,32 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://wp-novela-preview.draftbox.co/",
+        url: "https://greattattoos.netlify.app/",
       },
       {
         label: "Sitemap",
-        url: "https://wp-novela-preview.draftbox.co/sitemap.xml",
+        url: "https://greattattoos.netlify.app/sitemap.xml",
       },
       {
         label: "RSS",
-        url: "https://wp-novela-preview.draftbox.co/rss.xml",
+        url: "https://greattattoos.netlify.app/rss.xml",
       },
       {
         label: "Contact",
-        url: "https://wp-novela-preview.draftbox.co/contact",
+        url: "https://greattattoos.netlify.app/contact",
       },
       {
         label: "External Link",
-        url: "https://spectrum.chat/gatsby-js/themes?tab=posts",
+        url: "#",
       },
     ],
   },
   socialLinks: {
-    twitter: "https://twitter.com/draftboxhq",
-    facebook: "https://facebook.com/",
-    instagram: "https://www.instagram.com/",
-    linkedin: "https://linkedin.com/",
-    github: "https://github.com/draftbox-co",
+    twitter: "#",
+    facebook: "#",
+    instagram: "#",
+    linkedin: "#",
+    github: "#",
     pinterest: "",
     youtube: "",
     dribbble: "",
